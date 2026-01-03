@@ -1,0 +1,10 @@
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/install/strip.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/install/local.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/edit_cache.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/package_source.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/install.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/list_install_components.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/rebuild_cache.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/package.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/nlopt.dir
+/home/zhouwang/program/bahai-nudt/ros1_ws/nlopt/build/CMakeFiles/generate-cpp.dir
